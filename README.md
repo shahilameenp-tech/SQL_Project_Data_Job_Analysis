@@ -5,7 +5,7 @@
 This project analyzes Business Analyst job postings using SQL to identify trends in the job market, with a focus on skill demand, salary distribution, and role requirements. The analysis leverages real-world job posting data to understand how different business and technical skills influence compensation and hiring patterns.
 
 You can explore all SQL queries used in this analysis here:
-👉  [[project_sql folder](/Project_sql/)
+👉  [project_sql folder](/Project_sql/)
 
 ---
 
