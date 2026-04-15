@@ -186,7 +186,7 @@ LIMIT 25
 | Excel      | 31           | $87,212          |
 | JavaScript | 7            | $76,212          |
 
-kills like R, Python, and SAS offer the highest salaries, while SQL, Excel, and Tableau show the strongest demand, making a combination of these skills the most valuable for Business Analysts.
+Skills like R, Python, and SAS offer the highest salaries, while SQL, Excel, and Tableau show the strongest demand, making a combination of these skills the most valuable for Business Analysts.
 
 ## 📈 Key Techniques Used
 
@@ -211,13 +211,3 @@ tructured queries
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to analyze Business Analyst job market trends effectively. The findings highlight that skills such as SQL, Python, and business intelligence tools are strongly associated with both high demand and higher salary potential, making them essential for career growth in the analytics domain.
-
----
-
-## 📂 Project Structure
-
-* `Project_sql/` → SQL queries
-* `csv_exports/` → Output data
-* `excel workbooks/` → Visualizations
-* `sql_load/` → Data loading scripts
-* `README.md` → Documentation
